@@ -1,6 +1,10 @@
 # HackZurich 2022 Challenge —  #9 Winter is coming — Are we ready?
 
-> 🚧 We will publish the details of this challenge on Friday, 16. September during the workshop presentation.
+> 🚧 We will publish the details of this challenge on Friday, 16. September during the workshop presentation. 
+
+**Workshops**
+- 20:00-20:35          Workshops Round 1  - Newton 1012, (1. OG)
+- 20:45-21:20          Workshops Round 2 - Newton 1012, (1. OG)
 
 <br>
 
